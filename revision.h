@@ -13,4 +13,4 @@
 #  undef LZW
 #endif
 
-/* $Id: //depot/mainline/cmd/gzip-1.2.4/revision.h#1 $ */
+/* $Id: revision.h,v 0.25 1993/06/24 08:29:52 jloup Exp $ */

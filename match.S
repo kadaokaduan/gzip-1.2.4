@@ -9,7 +9,7 @@
  * Kristoffer Eriksson <ske@pkmab.se>
  */
  
-/* $Id: //depot/mainline/cmd/gzip-1.2.4/match.S#1 $ */
+/* $Id: match.S,v 0.14 1993/06/11 18:33:24 jloup Exp $ */
 
 /* Preprocess with -DNO_UNDERLINE if your C compiler does not prefix
  * external symbols with an underline character '_'.

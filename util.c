@@ -5,7 +5,7 @@
  */
 
 #ifdef RCSID
-static char rcsid[] = "$Id: //depot/mainline/cmd/gzip-1.2.4/util.c#1 $";
+static char rcsid[] = "$Id: util.c,v 0.15 1993/06/15 09:04:13 jloup Exp $";
 #endif
 
 #include <ctype.h>
@@ -178,7 +178,7 @@ char *strlwr(s)
  * any version suffix). For systems with file names that are not
  * case sensitive, force the base name to lower case.
  */
-char *gbasename(fname)
+char *basename(fname)
     char *fname;
 {
     char *p;

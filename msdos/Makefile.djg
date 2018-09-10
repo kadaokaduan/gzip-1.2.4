@@ -16,7 +16,7 @@
 # along with this program; if not, write to the Free Software
 # Foundation, Inc., 675 Mass Ave, Cambridge, MA 02139, USA.
 
-# $Id: //depot/mainline/cmd/gzip-1.2.4/msdos/Makefile.djg#1 $
+# $Id: Makefile.djg,v 1.3 1993/06/22 15:43:24 jloup Exp $
 
 #### Start of system configuration section. ####
 

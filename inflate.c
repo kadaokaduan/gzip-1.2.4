@@ -97,7 +97,7 @@
  */
 
 #ifdef RCSID
-static char rcsid[] = "$Id: //depot/mainline/cmd/gzip-1.2.4/inflate.c#1 $";
+static char rcsid[] = "$Id: inflate.c,v 0.14 1993/06/10 13:27:04 jloup Exp $";
 #endif
 
 #include <sys/types.h>

@@ -3,7 +3,7 @@
 ; This is free software; you can redistribute it and/or modify it under the
 ; terms of the GNU General Public License, see the file COPYING.
  
-; $Id: match.a,v 1.1 1998/10/06 13:29:58 jak Exp $
+; $Id: match.a,v 1.1 1993/03/11 16:05:57 jloup Exp $
 ;
 ; Adapted for the Amiga by Carsten Steger <stegerc@informatik.tu-muenchen.de>
 ; using the code in match.S.

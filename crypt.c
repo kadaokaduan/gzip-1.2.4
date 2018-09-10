@@ -2,5 +2,5 @@
  * Hardly worth copyrighting :-)
  */
 #ifdef RCSID
-static char rcsid[] = "$Id: //depot/mainline/cmd/gzip-1.2.4/crypt.c#1 $";
+static char rcsid[] = "$Id: crypt.c,v 0.6 1993/03/22 09:48:47 jloup Exp $";
 #endif

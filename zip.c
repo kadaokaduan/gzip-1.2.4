@@ -5,7 +5,7 @@
  */
 
 #ifdef RCSID
-static char rcsid[] = "$Id: //depot/mainline/cmd/gzip-1.2.4/zip.c#1 $";
+static char rcsid[] = "$Id: zip.c,v 0.17 1993/06/10 13:29:25 jloup Exp $";
 #endif
 
 #include <ctype.h>
@@ -65,7 +65,7 @@ int zip(in, out)
     put_byte(OS_CODE);            /* OS identifier */
 
     if (save_orig_name) {
-	char *p = gbasename(ifname); /* Don't save the directory part. */
+	char *p = basename(ifname); /* Don't save the directory part. */
 	do {
 	    put_char(*p);
 	} while (*p++);

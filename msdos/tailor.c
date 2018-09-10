@@ -12,7 +12,7 @@
 #include "gzip.h"
 
 #ifndef lint
-static char rcsid[] = "$Id: //depot/mainline/cmd/gzip-1.2.4/msdos/tailor.c#1 $";
+static char rcsid[] = "$Id: tailor.c,v 0.8 1993/02/24 18:24:54 jloup Exp $";
 #endif
 
 #ifdef __TURBOC__
